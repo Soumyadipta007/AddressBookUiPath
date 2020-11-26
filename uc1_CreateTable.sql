@@ -6,7 +6,7 @@ lastName varchar(25),
 address varchar(200),
 city varchar(25),
 state varchar(25),
-zip int,
-phoneNumber bigint,
+zip varchar(6),
+phoneNumber varchar(15),
 email varchar(100)
 );
