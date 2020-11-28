@@ -99,7 +99,7 @@
               <av:Size x:Key="ShapeSize">200,68.8</av:Size>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <Sequence sap:VirtualizedContainerService.HintSize="200,68.8" sap2010:WorkflowViewState.IdRef="Sequence_2">
+          <Sequence DisplayName="Read with OCR" sap:VirtualizedContainerService.HintSize="375.2,324.8" sap2010:WorkflowViewState.IdRef="Sequence_2">
             <Sequence.Variables>
               <Variable x:TypeArguments="x:String" Name="readTextWithOCR" />
             </Sequence.Variables>
